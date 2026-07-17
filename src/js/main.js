@@ -1,1 +1,1 @@
-import navbar from "./components/navbar.js";
+import navbar from "/workspaces/Pokedex/src/js/components/navbar/navbar.js";
